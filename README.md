@@ -1,0 +1,4 @@
+- 👋 Oi, sou a Mariana Hallal!
+- 💻 Sou Jornalista de Dados no Estadão. Trabalho na editoria de Arte.
+- 🌱 Também faço MBA em Jornalismo de Dados no IDP.
+- 💞️ Gosto de usar bases de dados para encontrar pautas relacionadas a Direitos Humanos, Educação, Saúde e Economia
